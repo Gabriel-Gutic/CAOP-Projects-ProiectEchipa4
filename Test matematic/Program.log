@@ -1,0 +1,276 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.5)  25 OCT 2022 15:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Test matematic/Program.tex"
+(d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Test matematic/Program.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04> (D:\Windows\Miktek\tex/latex/koma-script\scrartcl.cls
+Document Class: scrartcl 2022/07/04 v3.37 KOMA-Script document class (article)
+(D:\Windows\Miktek\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (D:\Windows\Miktek\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (D:\Windows\Miktek\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2022/07/04 v3.37 KOMA-Script package (file load hooks)
+ (D:\Windows\Miktek\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2022/07/04 v3.37 KOMA-Script package (using LaTeX hooks)
+ (D:\Windows\Miktek\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2022/07/04 v3.37 KOMA-Script package (logo)
+))) (D:\Windows\Miktek\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
+)) (D:\Windows\Miktek\tex/latex/koma-script\tocbasic.sty
+Package: tocbasic 2022/07/04 v3.37 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 135.
+Package scrartcl Info: You've used standard option `12pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=12pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=12pt' there
+(scrartcl)             instead of `12pt', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input line 2319.
+ (D:\Windows\Miktek\tex/latex/koma-script\scrsize12pt.clo
+File: scrsize12pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (12pt)
+) (D:\Windows\Miktek\tex/latex/koma-script\typearea.sty
+Package: typearea 2022/07/04 v3.37 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count185
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1766.
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4897.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4897.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4905.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4915.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4915.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4925.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4925.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4936.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4936.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4946.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4946.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6102.
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count192
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6118.
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count193
+Class scrartcl Info: Redefining `\numberline' on input line 6288.
+\bibindent=\dimen138
+) (D:\Windows\Miktek\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (D:\Windows\Miktek\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (D:\Windows\Miktek\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+) (D:\Windows\Miktek\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+ (D:\Windows\Miktek\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box53
+\extrarowheight=\dimen140
+\NC@list=\toks17
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box54
+)
+\everycr=\toks18
+\minrowclearance=\skip65
+\rownum=\count194
+) (D:\Windows\Miktek\tex/latex-dev/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+ (D:\Windows\Miktek\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (D:\Windows\Miktek\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
+)) (D:\Windows\Miktek\tex/latex/ntheorem\ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+(D:\Windows\Miktek\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\theorem@style=\toks19
+\theorem@@style=\toks20
+\theorembodyfont=\toks21
+\theoremnumbering=\toks22
+\theorempreskipamount=\skip66
+\theorempostskipamount=\skip67
+\theoremframepreskipamount=\skip68
+\theoremframepostskipamount=\skip69
+\theoreminframepreskipamount=\skip70
+\theoreminframepostskipamount=\skip71
+\theorem@preskip=\toks23
+\theorem@postskip=\toks24
+\theorem@framepreskip=\toks25
+\theorem@framepostskip=\toks26
+\theorem@inframepreskip=\toks27
+\theorem@inframepostskip=\toks28
+\theoremindent=\dimen141
+\theorem@indent=\dimen142
+\theoremrightindent=\dimen143
+\theorem@rightindent=\dimen144
+\theoremheaderfont=\toks29
+\theoremseparator=\toks30
+\theoremprework=\toks31
+\theorempostwork=\toks32
+\theoremsymbol=\toks33
+\qedsymbol=\toks34
+\theoremkeyword=\toks35
+\qedsymbol=\toks36
+\thm@topsep=\skip72
+\thm@topsepadd=\skip73
+)
+\c@exercitiu=\count195
+ (D:\Windows\Miktek\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box55
+) (Program.aux)
+\openout1 = `Program.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+Package scrbase Info: activating english \abstractname on input line 28.
+Package scrbase Info: activating english \partname on input line 28.
+Package scrbase Info: activating english \figurename on input line 28.
+Package scrbase Info: activating english \tablename on input line 28.
+Package scrbase Info: activating english \contentsname on input line 28.
+Package scrbase Info: activating english \listfigurename on input line 28.
+Package scrbase Info: activating english \listtablename on input line 28.
+Package scrbase Info: activating english \refname on input line 28.
+Package scrbase Info: activating english \indexname on input line 28.
+ (D:\Windows\Miktek\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen145
+\scratchbox=\box56
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen146
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks38
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+\tf@thm=\write3
+\openout3 = `Program.thm'.
+
+ [1
+
+
+{C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Program.aux) ) 
+Here is how much of TeX's memory you used:
+ 5048 strings out of 478338
+ 102856 string characters out of 2849363
+ 541449 words of memory out of 3000000
+ 23475 multiletter control sequences out of 15000+600000
+ 477559 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,13n,106p,10693b,330s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\gabri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\gabri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Program.pdf (1 page, 115341 bytes).
+PDF statistics:
+ 67 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
