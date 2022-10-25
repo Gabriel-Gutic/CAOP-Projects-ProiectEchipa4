@@ -2,38 +2,112 @@
 
 \usepackage[dvipsnames, svgnames, table]{xcolor}
 
+\usepackage{amsmath, amssymb}
 \usepackage{ntheorem}
+\usepackage{enumitem}
+
+\usepackage{multicol,paracol}
+
+\usepackage{graphicx}
+\usepackage{float}
+\graphicspath{{imagini}}
 
 
 \theoremstyle{plain}
-\newtheorem{exercitiu}{Exerci\c tiul}
+\newtheorem{subiect}{Subiectul}
 
 \title{
-    Ecua\c tii cu func\c tii elementare \\
-    \large {Test de evaluare}
+    Test de evaluare
 }
-\subtitle{Formule matematice și formatarea textului}
-\author{\color{DarkSlateGray}{Teodor Chelmuș}\color{Tomato}{\thanks{teodor.chelmus@uaic.ro}} \and Grupa M512}
-\date{\today}
-\publishers{Editura Math}
+\subtitle{Func\c tii \c si ecua\c tii \\
+exponen\c tiale \c si logaritmice}
+\author{}
+\date{}
+
 \titlehead{
-{\large\bfseries Universitatea Alexandru Ioan Cuza din Iași} \hfill Anul 2022--2023\\
-{\bfseries Facultatea de Matematică}\\
-Soft matematic, \LaTeX\\
-Clasa a X
+    \footnotesize
+    \begin{minipage}[c]{0.10\linewidth}
+        \includegraphics[width=\textwidth]{sigla.jpg}
+    \end{minipage} 
+    \begin{minipage}[c]{0.7\linewidth}
+        {\small\bfseries Liceul Teoretic ``Alexandru Ioan Cuza'', Iași} \\
+        Anul 2022--2023\\
+        Matematic\u a-informatic\u a\\
+        Clasa a X-a A
+    \end{minipage}
 }
-\subject{Matematică}
-\dedication{Familiei mele!}
 
 \begin{document}
 \maketitle
 
-\begin{exercitiu}
-    Rezolva\c ti urm\u atoarele ecua\c tii exponen\c tiale:
+\begin{subiect}
+    \^ Incercui\c ti r\u aspunsul corect:
+\end{subiect}
 
-    \begin{itemize}
-        \item \(2 \cdot  3^x = 54\)
-    \end{itemize}
-\end{exercitiu}
+
+\begin{description}
+    \item[1)] Ecua\c tia \(2 \cdot 3^x = 54 \) are solu\c tia unic\u a: \hfill 0.5pct
+    {
+        \begin{paracol}{3}
+            \begin{description}
+                \item[a.] x = 3 
+                \item[b.] x = 2 
+            \end{description}
+            \switchcolumn
+            \begin{description}
+                \item[c.] x = 5
+                \item[d.] nu are solu\c tie 
+            \end{description}
+            \switchcolumn
+        \end{paracol}
+    }
+    \item[2)] Ecua\c tia \(5 \cdot \log_2{x} = 640 \) are solu\c tia unic\u a: \hfill 0.5pct
+    {
+        \begin{paracol}{3}
+            \begin{description}
+                \item[a.] x = 3 
+                \item[b.] x = 6 
+            \end{description}
+            \switchcolumn
+            \begin{description}
+                \item[c.] x = 7
+                \item[d.]nu are solu\c tie 
+            \end{description}
+            \switchcolumn
+        \end{paracol}
+    }
+\end{description}
+
+\begin{subiect}
+    Scrie\c ti \^in dreptul fiec\u arei func\c tii, litera corespunz\u atoare graficului acesteia:
+\end{subiect}
+
+\begin{paracol}{2}
+    \noindent
+    1. \( f: \mathbb{R} \rightarrow ( 0, \infty ), f(x) = 2^x \) \\
+    2. \( f: ( 0, \infty ) \rightarrow \mathbb{R}, f(x) = \log_2{x} \) \\
+    3. \( f: \mathbb{R} \rightarrow ( 0, \infty ), f(x) = 2^{x+1} - 1 \) \\
+    4. \( f: \mathbb{R} \rightarrow ( 0, \infty ), f(x) = \log_2({x - 1}) \)
+\switchcolumn
+
+\end{paracol}
+    
+\begin{paracol}{4}
+    \begin{figure}[H]
+        \hbox{\includegraphics[width=0.25\textwidth]{grafic2.jpg}}
+    \end{figure}
+    \switchcolumn
+    \begin{figure}[H]
+        \hbox{\includegraphics[width=0.25\textwidth]{grafic1.jpg}}
+    \end{figure}
+    \switchcolumn
+    \begin{figure}[H]
+        \hbox{\includegraphics[width=0.25\textwidth]{grafic1.jpg}}
+    \end{figure}
+    \switchcolumn
+    \begin{figure}[H]
+        \hbox{\includegraphics[width=0.25\textwidth]{grafic1.jpg}}
+    \end{figure}
+\end{paracol}
 
 \end{document}
