@@ -1,0 +1,40 @@
+\documentclass[10pt]{article}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.15}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+ 
+%<<<<<<<WARNING>>>>>>>
+% PGF/Tikz doesn't support the following mathematical functions:
+% cosh, acosh, sinh, asinh, tanh, atanh,
+% x^r with r not integer
+
+% Plotting will be done using GNUPLOT
+% GNUPLOT must be installed and you must allow Latex to call external
+% programs by adding the following option to your compiler
+% shell-escape    OR    enable-write18 
+% Example: pdflatex --shell-escape file.tex 
+
+\begin{document}
+\definecolor{qqwuqq}{rgb}{0,0.39215686274509803,0}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1cm,y=1cm]
+\begin{axis}[
+x=1cm,y=1cm,
+axis lines=middle,
+ymajorgrids=true,
+xmajorgrids=true,
+xmin=-6.927933621789031,
+xmax=6.802516829022966,
+ymin=-3.55147637691946,
+ymax=4.533926370104626,
+xtick={-6.5,-6,...,6.5},
+ytick={-3.5,-3,...,4.5},]
+\clip(-6.927933621789031,-3.55147637691946) rectangle (6.802516829022966,4.533926370104626);
+\draw[line width=2pt,color=qqwuqq,smooth,samples=100,domain=-6.927933621789031:6.802516829022966] plot(\x,{2^((\x)+1)-1});
+\begin{scriptsize}
+\draw[color=qqwuqq] (-6.817426978321731,-0.8762947163152496) node {$f$};
+\end{scriptsize}
+\end{axis}
+\end{tikzpicture}
+\end{document}

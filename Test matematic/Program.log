@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.5)  26 OCT 2022 00:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.26)  1 NOV 2022 23:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -368,7 +368,9 @@ Package: paracol 2018/12/31 v1.35
 \pcol@tempboxb=\box108
 \pcol@colorins=\insert252
 \pcol@everyvbox=\toks43
-) (D:\Windows\Miktek\tex/latex/graphics\graphicx.sty
+) (D:\Windows\Miktek\tex/latex/pgfplots\pgfplots.sty (D:\Windows\Miktek\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (D:\Windows\Miktek\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (D:\Windows\Miktek\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
@@ -381,114 +383,351 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen169
 \Gin@req@width=\dimen170
-) (D:\Windows\Miktek\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count295
-\float@exts=\toks44
-\float@box=\box109
-\@float@everytoks=\toks45
-\@floatcapt=\box110
+) (D:\Windows\Miktek\tex/latex/pgf/frontendlayer\tikz.sty (D:\Windows\Miktek\tex/latex/pgf/basiclayer\pgf.sty (D:\Windows\Miktek\tex/latex/pgf/utilities\pgfrcs.sty (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks44
+\pgfutil@tempdima=\dimen171
+\pgfutil@tempdimb=\dimen172
+ (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box109
+) (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfrcs.code.tex (D:\Windows\Miktek\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/latex/pgf/basiclayer\pgfcore.sty (D:\Windows\Miktek\tex/latex/pgf/systemlayer\pgfsys.sty (D:\Windows\Miktek\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks45
+\pgfkeys@temptoks=\toks46
+ (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks47
+))
+\pgf@x=\dimen173
+\pgf@y=\dimen174
+\pgf@xa=\dimen175
+\pgf@ya=\dimen176
+\pgf@xb=\dimen177
+\pgf@yb=\dimen178
+\pgf@xc=\dimen179
+\pgf@yc=\dimen180
+\pgf@xd=\dimen181
+\pgf@yd=\dimen182
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count295
+\c@pgf@countb=\count296
+\c@pgf@countc=\count297
+\c@pgf@countd=\count298
+\t@pgf@toka=\toks48
+\t@pgf@tokb=\toks49
+\t@pgf@tokc=\toks50
+\pgf@sys@id@count=\count299
+ (D:\Windows\Miktek\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
-\c@subiect=\count296
+Driver file for pgf: pgfsys-pdftex.def
+ (D:\Windows\Miktek\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (D:\Windows\Miktek\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count300
+\pgfsyssoftpath@bigbuffer@items=\count301
+) (D:\Windows\Miktek\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/math\pgfmath.code.tex (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathcalc.code.tex (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathutil.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen183
+\pgfmath@count=\count302
+\pgfmath@box=\box110
+\pgfmath@toks=\toks51
+\pgfmath@stack@operand=\toks52
+\pgfmath@stack@operation=\toks53
+) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.code.tex (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (D:\Windows\Miktek\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count303
+)) (D:\Windows\Miktek\tex/generic/pgf/math\pgfint.code.tex) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen184
+\pgf@picmaxx=\dimen185
+\pgf@picminy=\dimen186
+\pgf@picmaxy=\dimen187
+\pgf@pathminx=\dimen188
+\pgf@pathmaxx=\dimen189
+\pgf@pathminy=\dimen190
+\pgf@pathmaxy=\dimen191
+\pgf@xx=\dimen192
+\pgf@xy=\dimen193
+\pgf@yx=\dimen194
+\pgf@yy=\dimen195
+\pgf@zx=\dimen196
+\pgf@zy=\dimen197
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen198
+\pgf@path@lasty=\dimen199
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen256
+\pgf@shorten@start@additional=\dimen257
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box111
+\pgf@hbox=\box112
+\pgf@layerbox@main=\box113
+\pgf@picture@serial@count=\count304
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen258
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen259
+\pgf@pt@y=\dimen260
+\pgf@pt@temp=\dimen261
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen262
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen263
+\pgf@sys@shading@range@num=\count305
+\pgf@shadingcount=\count306
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box114
+)) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (D:\Windows\Miktek\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box115
+) (D:\Windows\Miktek\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (D:\Windows\Miktek\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen264
+\pgf@nodesepend=\dimen265
+) (D:\Windows\Miktek\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (D:\Windows\Miktek\tex/latex/pgf/utilities\pgffor.sty (D:\Windows\Miktek\tex/latex/pgf/utilities\pgfkeys.sty (D:\Windows\Miktek\tex/generic/pgf/utilities\pgfkeys.code.tex)) (D:\Windows\Miktek\tex/latex/pgf/math\pgfmath.sty (D:\Windows\Miktek\tex/generic/pgf/math\pgfmath.code.tex)) (D:\Windows\Miktek\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen266
+\pgffor@skip=\dimen267
+\pgffor@stack=\toks54
+\pgffor@toks=\toks55
+)) (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count307
+\pgfplotmarksize=\dimen268
+)
+\tikz@lastx=\dimen269
+\tikz@lasty=\dimen270
+\tikz@lastxsaved=\dimen271
+\tikz@lastysaved=\dimen272
+\tikz@lastmovetox=\dimen273
+\tikz@lastmovetoy=\dimen274
+\tikzleveldistance=\dimen275
+\tikzsiblingdistance=\dimen276
+\tikz@figbox=\box116
+\tikz@figbox@bg=\box117
+\tikz@tempbox=\box118
+\tikz@tempbox@bg=\box119
+\tikztreelevel=\count308
+\tikznumberofchildren=\count309
+\tikznumberofcurrentchild=\count310
+\tikz@fig@count=\count311
+ (D:\Windows\Miktek\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count312
+\pgfmatrixcurrentcolumn=\count313
+\pgf@matrix@numberofcolumns=\count314
+)
+\tikz@expandcount=\count315
+ (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplots.code.tex (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks56
+\t@pgfplots@tokb=\toks57
+\t@pgfplots@tokc=\toks58
+\pgfplots@tmpa=\dimen277
+\c@pgfplots@coordindex=\count316
+\c@pgfplots@scanlineindex=\count317
+ (D:\Windows\Miktek\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (D:\Windows\Miktek\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (D:\Windows\Miktek\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (D:\Windows\Miktek\tex/generic/pgfplots/util\pgfplotsutil.code.tex (D:\Windows\Miktek\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count318
+) (D:\Windows\Miktek\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count319
+\t@pgfplotstable@a=\toks59
+) (D:\Windows\Miktek\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (D:\Windows\Miktek\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (D:\Windows\Miktek\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count320
+ (D:\Windows\Miktek\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (D:\Windows\Miktek\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (D:\Windows\Miktek\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplots.scaling.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplots.markers.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplotsticks.code.tex) (D:\Windows\Miktek\tex/generic/pgfplots\pgfplots.paths.code.tex) (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (D:\Windows\Miktek\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen278
+\pgfdecoratedremainingdistance=\dimen279
+\pgfdecoratedinputsegmentcompleteddistance=\dimen280
+\pgfdecoratedinputsegmentremainingdistance=\dimen281
+\pgf@decorate@distancetomove=\dimen282
+\pgf@decorate@repeatstate=\count321
+\pgfdecorationsegmentamplitude=\dimen283
+\pgfdecorationsegmentlength=\dimen284
+)
+\tikz@lib@dec@box=\box120
+) (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (D:\Windows\Miktek\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (D:\Windows\Miktek\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (D:\Windows\Miktek\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count322
+\pgfplots@xmin@reg=\dimen285
+\pgfplots@xmax@reg=\dimen286
+\pgfplots@ymin@reg=\dimen287
+\pgfplots@ymax@reg=\dimen288
+\pgfplots@zmin@reg=\dimen289
+\pgfplots@zmax@reg=\dimen290
+) (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (D:\Windows\Miktek\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (D:\Windows\Miktek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (D:\Windows\Miktek\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen291
+)) (D:\Windows\Miktek\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count323
+\float@exts=\toks60
+\float@box=\box121
+\@float@everytoks=\toks61
+\@floatcapt=\box122
+)
+\c@subiect=\count324
  (D:\Windows\Miktek\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count297
-\l__pdf_internal_box=\box111
+\l__color_backend_stack_int=\count325
+\l__pdf_internal_box=\box123
 ) (Program.aux)
 \openout1 = `Program.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-Package scrbase Info: activating english \abstractname on input line 40.
-Package scrbase Info: activating english \partname on input line 40.
-Package scrbase Info: activating english \figurename on input line 40.
-Package scrbase Info: activating english \tablename on input line 40.
-Package scrbase Info: activating english \contentsname on input line 40.
-Package scrbase Info: activating english \listfigurename on input line 40.
-Package scrbase Info: activating english \listtablename on input line 40.
-Package scrbase Info: activating english \refname on input line 40.
-Package scrbase Info: activating english \indexname on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+Package scrbase Info: activating english \abstractname on input line 54.
+Package scrbase Info: activating english \partname on input line 54.
+Package scrbase Info: activating english \figurename on input line 54.
+Package scrbase Info: activating english \tablename on input line 54.
+Package scrbase Info: activating english \contentsname on input line 54.
+Package scrbase Info: activating english \listfigurename on input line 54.
+Package scrbase Info: activating english \listtablename on input line 54.
+Package scrbase Info: activating english \refname on input line 54.
+Package scrbase Info: activating english \indexname on input line 54.
  (D:\Windows\Miktek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count298
-\scratchdimen=\dimen171
-\scratchbox=\box112
-\nofMPsegments=\count299
-\nofMParguments=\count300
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count301
-\MPscratchDim=\dimen172
-\MPnumerator=\count302
-\makeMPintoPDFobject=\count303
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count326
+\scratchdimen=\dimen292
+\scratchbox=\box124
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen293
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks63
 ) (D:\Windows\Miktek\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (D:\Windows\Miktek\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<imagini/sigla.jpg, id=1, 131.5314pt x 138.5175pt>
+Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
+
+<imagini/sigla.jpg, id=4, 131.5314pt x 138.5175pt>
 File: imagini/sigla.jpg Graphic file (type jpg)
 <use imagini/sigla.jpg>
-Package pdftex.def Info: imagini/sigla.jpg  used on input line 42.
+Package pdftex.def Info: imagini/sigla.jpg  used on input line 56.
 (pdftex.def)             Requested size: 44.81583pt x 47.19676pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
- (D:\Windows\Miktek\tex/latex/amsfonts\umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+(D:\Windows\Miktek\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
  (D:\Windows\Miktek\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<imagini/grafic2.jpg, id=2, 478.03593pt x 473.51906pt>
-File: imagini/grafic2.jpg Graphic file (type jpg)
-<use imagini/grafic2.jpg>
-Package pdftex.def Info: imagini/grafic2.jpg  used on input line 97.
-(pdftex.def)             Requested size: 112.03273pt x 110.97353pt.
-<imagini/grafic1.jpg, id=3, 473.51906pt x 477.28313pt>
-File: imagini/grafic1.jpg Graphic file (type jpg)
-<use imagini/grafic1.jpg>
-Package pdftex.def Info: imagini/grafic1.jpg  used on input line 101.
-(pdftex.def)             Requested size: 112.03273pt x 112.91895pt.
-File: imagini/grafic1.jpg Graphic file (type jpg)
-<use imagini/grafic1.jpg>
-Package pdftex.def Info: imagini/grafic1.jpg  used on input line 105.
-(pdftex.def)             Requested size: 112.03273pt x 112.91895pt.
-File: imagini/grafic1.jpg Graphic file (type jpg)
-<use imagini/grafic1.jpg>
-Package pdftex.def Info: imagini/grafic1.jpg  used on input line 109.
-(pdftex.def)             Requested size: 112.03273pt x 112.91895pt.
-\tf@thm=\write3
-\openout3 = `Program.thm'.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 56.
+ (D:\Windows\Miktek\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 57--64
 
- [1
+ []
+
+[1
 
 
-{C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagini/sigla.jpg> <./imagini/grafic2.jpg> <./imagini/grafic1.jpg>] (Program.aux) ) 
+{C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagini/sigla.jpg>] [2]
+<grafice/g1.png, id=24, 347.04657pt x 347.04657pt>
+File: grafice/g1.png Graphic file (type png)
+<use grafice/g1.png>
+Package pdftex.def Info: grafice/g1.png  used on input line 225.
+(pdftex.def)             Requested size: 120.99727pt x 120.99681pt.
+<grafice/g2.png, id=26, 390.70969pt x 392.96812pt>
+File: grafice/g2.png Graphic file (type png)
+<use grafice/g2.png>
+Package pdftex.def Info: grafice/g2.png  used on input line 234.
+(pdftex.def)             Requested size: 120.99727pt x 121.69293pt.
+<grafice/g3.png, id=27, 391.4625pt x 390.70969pt>
+File: grafice/g3.png Graphic file (type png)
+<use grafice/g3.png>
+Package pdftex.def Info: grafice/g3.png  used on input line 243.
+(pdftex.def)             Requested size: 120.99727pt x 120.76103pt.
+<grafice/g4.png, id=28, 347.79938pt x 349.305pt>
+File: grafice/g4.png Graphic file (type png)
+<use grafice/g4.png>
+Package pdftex.def Info: grafice/g4.png  used on input line 252.
+(pdftex.def)             Requested size: 120.99727pt x 121.51772pt.
+ [3 <./grafice/g1.png> <./grafice/g2.png> <./grafice/g3.png> <./grafice/g4.png>]
+\tf@thm=\write4
+\openout4 = `Program.thm'.
+
+ [4] (Program.aux) ) 
 Here is how much of TeX's memory you used:
- 7863 strings out of 478338
- 145340 string characters out of 2849363
- 595539 words of memory out of 3000000
- 26214 multiletter control sequences out of 15000+600000
- 481160 words of font info for 74 fonts, out of 8000000 for 9000
+ 29350 strings out of 478338
+ 739373 string characters out of 2849362
+ 1303633 words of memory out of 3000000
+ 47339 multiletter control sequences out of 15000+600000
+ 484843 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,106p,10693b,440s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,11n,106p,10693b,2308s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmbx6.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/Windows/Miktek/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Program.pdf (1 page, 457355 bytes).
+Output written on Program.pdf (4 pages, 316003 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

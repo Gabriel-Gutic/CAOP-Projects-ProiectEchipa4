@@ -1,0 +1,28 @@
+\documentclass[10pt]{article}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.15}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{qqwuqq}{rgb}{0,0.39215686274509803,0}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1cm,y=1cm]
+\begin{axis}[
+x=1cm,y=1cm,
+axis lines=middle,
+ymajorgrids=true,
+xmajorgrids=true,
+xmin=-7.435933582696904,
+xmax=7.667561913196296,
+ymin=-4.012180415312024,
+ymax=4.881762606414469,
+xtick={-7,-6,...,7},
+ytick={-4,-3,...,4},]
+\clip(-7.435933582696904,-4.012180415312024) rectangle (7.667561913196296,4.881762606414469);
+\draw[line width=2pt,color=qqwuqq,smooth,samples=100,domain=1.0000001289061244:7.667561913196296] plot(\x,{ln((\x)-1)/ln(2)});
+\begin{scriptsize}
+\draw[color=qqwuqq] (1.1034672912386876,-3.8146497901142253) node {$f$};
+\end{scriptsize}
+\end{axis}
+\end{tikzpicture}
+\end{document}
