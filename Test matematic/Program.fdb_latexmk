@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1667336661 "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Test matematic/Program.tex" "Program.pdf" "Program" 1667336664
-  "C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667166396 122784 d33a70510c6979a83c02ec62fcd41f98 ""
+["pdflatex"] 1667937391 "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Test matematic/Program.tex" "Program.pdf" "Program" 1667937395
+  "C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667391399 122784 d33a70510c6979a83c02ec62fcd41f98 ""
   "C:/Users/gabri/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1665562538 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/gabri/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1665562539 684 3a51bd4fd9600428d5264cf25f04bb9a ""
   "C:/Users/gabri/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs7.tfm" 1665562541 692 1b6510779f0f05e9cbf03e0f6c8361e6 ""
@@ -196,14 +196,14 @@
   "D:/Windows/Miktek/tex/latex/tools/multicol.sty" 1636710260 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
   "D:/Windows/Miktek/tex/latex/xcolor/svgnam.def" 1656233290 4704 af34fa7e0b1716f97116d8a28100bb35 ""
   "D:/Windows/Miktek/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Program.aux" 1667336664 335 df4e92233abd770609e345ed74e3c987 "pdflatex"
-  "Program.tex" 1667336660 9096 05749c75ec5ea4a7a1289c176625b57c ""
-  "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Test matematic/Program.tex" 1667336660 9096 05749c75ec5ea4a7a1289c176625b57c ""
+  "Program.aux" 1667937394 335 df4e92233abd770609e345ed74e3c987 "pdflatex"
+  "Program.tex" 1667937391 9096 e45f688cf5378d9bb242b9dabdd2ca73 ""
+  "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Test matematic/Program.tex" 1667937391 9096 e45f688cf5378d9bb242b9dabdd2ca73 ""
   "grafice/g1.png" 1667333358 14102 e0a616d9c10a7e431974be850a6dff44 ""
   "grafice/g2.png" 1667333595 12136 181691463cb9fda7d16370424999c83b ""
   "grafice/g3.png" 1667333636 12545 038cddd0485442f29dd7a1e4ada6a0eb ""
   "grafice/g4.png" 1667333146 13422 79de17d35aaccde84cb6db0c2a4184b7 ""
-  "imagini/sigla.jpg" 1666695324 117582 5d91110c1c5bac2324651f505399ca68 ""
+  "imagini/sigla.png" 1667937339 1048730 6b7d4649dedf7a6805737828f7a2c518 ""
   (generated)
   "Program.aux"
   "Program.log"

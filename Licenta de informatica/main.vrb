@@ -1,0 +1,15 @@
+\frametitle{Algoritmul}
+\begin{lstlisting}
+        pause()
+        if valid(k):
+            if solution(k):
+                show_solution()
+            else:
+                back(k + 1)
+    queens[k]['image'].set_visible(False)
+    pause()
+    \end{lstlisting}
+
+    \begin{block}{Precizare}
+        \lipsum[1][3-5]
+    \end{block}
