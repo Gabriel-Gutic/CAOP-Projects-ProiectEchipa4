@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1668367116 "main.aux" "main.bbl" "main" 1668367141
+["bibtex main"] 1668367401 "main.aux" "main.bbl" "main" 1668367868
   "D:/Windows/Miktek/bibtex/bst/amscls/amsalpha.bst" 1591020010 28675 71ba1b1ee8387ac88670b0ea0eb2399a ""
   "biblio.bib" 1668367098 750 08f59771f90c4b6902ed8a01404cf1c5 ""
-  "main.aux" 1668367141 5518 6932851598af56653526aea4dc88dd78 "pdflatex"
+  "main.aux" 1668367867 5518 6932851598af56653526aea4dc88dd78 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1668367139 "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Licenta de informatica/main.tex" "main.pdf" "main" 1668367141
+["pdflatex"] 1668367865 "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Licenta de informatica/Varianta 1/main.tex" "main.pdf" "main" 1668367868
   "C:/Users/gabri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1668364712 122784 d33a70510c6979a83c02ec62fcd41f98 ""
   "C:/Users/gabri/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666776885 10317299 a1cd2caeffe731da6ef41492384144dd ""
   "D:/Windows/Miktek/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -224,14 +224,14 @@
   "Images/1.png" 1667922687 8929 1b1108676c8a45122b3eb56c753d41c3 ""
   "Images/sigla.jpg" 1666695324 117582 5d91110c1c5bac2324651f505399ca68 ""
   "Images/sigla.png" 1668361525 15520 fd71b86d234dc5eb105e83151c3914e0 ""
-  "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Licenta de informatica/main.tex" 1668367138 5763 05643859450ec81a39bd576deb3e7c2c ""
-  "main.aux" 1668367141 5518 6932851598af56653526aea4dc88dd78 "pdflatex"
-  "main.bbl" 1668367116 903 1db1c4e3367ed8ed517b2132590e818c "bibtex main"
-  "main.nav" 1668367141 2855 b0143c8c1b6fd3fa9a400cd77dd02a4f "pdflatex"
-  "main.out" 1668367141 1245 b813a562bca11a0fb2358075399acf2e "pdflatex"
-  "main.tex" 1668367138 5763 05643859450ec81a39bd576deb3e7c2c ""
-  "main.toc" 1668367141 541 b150a6dc3fb090d4177b79cac8c3e00a "pdflatex"
-  "main.vrb" 1668367140 358 df33d2ea1640fcb13080a6e17a9f5882 "pdflatex"
+  "d:/School/Math/Year 2/Sem 1/Mathematical Software/Projects/ProiectEchipa4/Licenta de informatica/Varianta 1/main.tex" 1668367865 5799 a25e7065e278f30464a21338f3effc67 ""
+  "main.aux" 1668367867 5518 6932851598af56653526aea4dc88dd78 "pdflatex"
+  "main.bbl" 1668367401 903 1db1c4e3367ed8ed517b2132590e818c "bibtex main"
+  "main.nav" 1668367867 2855 b0143c8c1b6fd3fa9a400cd77dd02a4f "pdflatex"
+  "main.out" 1668367867 1245 b813a562bca11a0fb2358075399acf2e "pdflatex"
+  "main.tex" 1668367865 5799 a25e7065e278f30464a21338f3effc67 ""
+  "main.toc" 1668367867 541 b150a6dc3fb090d4177b79cac8c3e00a "pdflatex"
+  "main.vrb" 1668367867 358 df33d2ea1640fcb13080a6e17a9f5882 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

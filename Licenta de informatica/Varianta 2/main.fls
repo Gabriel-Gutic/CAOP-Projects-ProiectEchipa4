@@ -1,6 +1,6 @@
-PWD d:\School\Math\Year 2\Sem 1\Mathematical Software\Projects\ProiectEchipa4\Licenta de informatica
+PWD d:\School\Math\Year 2\Sem 1\Mathematical Software\Projects\ProiectEchipa4\Licenta de informatica\Varianta 2
 INPUT C:\Users\gabri\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\School\Math\Year 2\Sem 1\Mathematical Software\Projects\ProiectEchipa4\Licenta de informatica\main.tex
+INPUT d:\School\Math\Year 2\Sem 1\Mathematical Software\Projects\ProiectEchipa4\Licenta de informatica\Varianta 2\main.tex
 OUTPUT main.log
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamer.cls
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamer.cls
@@ -1107,39 +1107,17 @@ INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemedefault.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemedefault.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemedefault.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemedefault.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeMadrid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemewhale.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
-INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemeorchid.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamerthemeCambridgeUS.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerinnerthemerounded.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerinnerthemerounded.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerinnerthemerounded.sty
@@ -1162,6 +1140,17 @@ INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemeinfolines.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemeinfolines.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemeinfolines.sty
 INPUT D:\Windows\Miktek\tex\latex\beamer\beamerouterthemeinfolines.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
+INPUT D:\Windows\Miktek\tex\latex\beamer\beamercolorthemebeaver.sty
 INPUT D:\Windows\Miktek\tex\latex\lipsum\lipsum.sty
 INPUT D:\Windows\Miktek\tex\latex\lipsum\lipsum.sty
 INPUT D:\Windows\Miktek\tex\latex\lipsum\lipsum.sty
@@ -1363,7 +1352,6 @@ INPUT C:\Users\gabri\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\main.toc
 INPUT main.toc
 INPUT main.toc
-INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmss12.tfm
 INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmmi10.tfm
 INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmmi8.tfm
 INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmmi6.tfm
@@ -1423,12 +1411,6 @@ INPUT .\main.vrb
 INPUT main.vrb
 INPUT .\main.vrb
 INPUT main.vrb
-INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmmi12.tfm
-INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmsy10.tfm
-INPUT D:\Windows\Miktek\fonts\tfm\public\cm\cmex10.tfm
-INPUT D:\Windows\Miktek\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT D:\Windows\Miktek\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT D:\Windows\Miktek\fonts\tfm\public\sansmathaccent\mathkerncmssi12.tfm
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl
@@ -1444,8 +1426,6 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmss12.pfb
@@ -1456,8 +1436,6 @@ INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmssi10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmssi10.pfb
-INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmssi12.pfb
-INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmssi12.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\Windows\Miktek\fonts\type1\public\amsfonts\cm\cmtt10.pfb
